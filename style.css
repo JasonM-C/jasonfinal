@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Sans-Serif;
+    background-color: lightgray;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
